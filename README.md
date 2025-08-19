@@ -37,7 +37,7 @@ Nottingham Trent University] in Software Engineering BSc\[2025
 📈 My GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=simichavda&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Simi's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simichavda&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Simi's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simichavda&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Simi's Top Languages" />
 </p>
 
 🔗 Connect with me
