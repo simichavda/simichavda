@@ -1,21 +1,14 @@
-<h1 align="center">Hi 👋, I'm Simi Chavda</h1>
-<h3 align="center">A passionate Software Engineer Graduate from the UK :)</h3>
+<h1 align="center">hello there, i am simi chavda :]</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/A_passionate_Software_Engineer_Graduate_from_the_UK_♡-FA7AC1?style=for-the-badge" alt="A passionate Software Engineer Graduate from the UK ♡"/>
+</p>
 
-👋 About Me
-I'm a recent graduate in Software Engineering, passionate about building practical and impactful solutions. I'm actively seeking my first role where I can contribute my skills and continue to grow.
+- 🎓 graduated in Software Engineering from Nottingham Trent University (2025).
+- 💻 currently focused on building a full-stack e-commerce site, completing and improving the mobile game I created on Unity Engine and improving my Python skills and knowledge.
+- 🌱 always looking to expand my knowledge, with a recent interest in modern DevOps practices and mobile app development.
+- 💬 available to chat about Python, web development, or video games.
 
-🎓 I graduated from 
-
-Nottingham Trent University in Software Engineering BSc - 2025
-.
-
-💻 I'm currently focused on building a full-stack e-commerce site, completing and improving the mobile game I created on Unity Engine and improving my Python skills and knowledge.
-
-🌱 I'm always looking to expand my knowledge, with a recent interest in modern DevOps practices, mobile app development.
-
-💬 I'm available to chat about Python, web development, or video games.
-
-🚀 Languages and Tools
+🚀 languages and tools
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -29,13 +22,13 @@ Nottingham Trent University in Software Engineering BSc - 2025
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-📈 My GitHub Stats
+📈 my GitHub stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=simichavda&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Simi's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simichavda&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Simi's Top Languages" />
 </p>
 
-🔗 Connect with me
+🔗 connect with me
 <p align="center">
 <a href="https://linkedin.com/in/simi-chavda-56b835235" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Simi's LinkedIn" /></a>
 <a href="https://www.leetcode.com/simichavda" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Simi's LeetCode" /></a>
