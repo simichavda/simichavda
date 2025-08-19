@@ -15,9 +15,9 @@
 <br>
 
 
-<a href="https://linkedin.com/in/simi-chavda-56b835235" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-fba0d3?style=for-the-badge&logo=linkedIn&logoColor=white" alt="Simi's LinkedIn" /></a>
-<a href="https://www.leetcode.com/simichavda" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-fba0d3?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Simi's LeetCode" /></a>
-<a href="mailto:simichavda05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email_Me-fba0d3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+<a href="https://linkedin.com/in/simi-chavda-56b835235" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-fba0cf?style=for-the-badge&logo=linkedIn&logoColor=white" alt="Simi's LinkedIn" /></a>
+<a href="https://www.leetcode.com/simichavda" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-fba0cf?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Simi's LeetCode" /></a>
+<a href="mailto:simichavda05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email_Me-fba0cf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
 
 
 <br>
