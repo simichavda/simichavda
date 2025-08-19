@@ -6,14 +6,14 @@ I'm a recent graduate in Software Engineering, passionate about building practic
 
 🎓 I graduated from 
 
-Nottingham Trent University] in Software Engineering BSc\[2025
+Nottingham Trent University in Software Engineering BSc - 2025
 .
 
-💻 I'm currently focused on [e.g., building a full-stack e-commerce site, learning about cloud services].
+💻 I'm currently focused on building a full-stack e-commerce site, completing and improving the mobile game I created on Unity Engine and improving my Python skills and knowledge.
 
-🌱 I'm always looking to expand my knowledge, with a recent interest in [e.g., modern DevOps practices, mobile app development].
+🌱 I'm always looking to expand my knowledge, with a recent interest in modern DevOps practices, mobile app development.
 
-💬 I'm available to chat about [e.g., Python, C++, web development, or video games].
+💬 I'm available to chat about Python, web development, or video games.
 
 🚀 Languages and Tools
 <p align="center">
@@ -28,11 +28,6 @@ Nottingham Trent University] in Software Engineering BSc\[2025
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
-
-✨ Featured Projects
-[Project Name 1] - A brief, one-sentence description of the project and its purpose. [Link to Repo]
-
-[Project Name 2] - A brief, one-sentence description of the project and its purpose. [Link to Repo]
 
 📈 My GitHub Stats
 <p align="center">
